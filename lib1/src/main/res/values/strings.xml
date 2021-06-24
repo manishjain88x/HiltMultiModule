@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-framework</string>
+    <string name="API_KEY">hi</string>
+    <string name="BASE_URL">hello</string>
+</resources>
